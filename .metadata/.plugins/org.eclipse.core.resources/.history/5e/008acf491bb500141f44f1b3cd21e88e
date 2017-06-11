@@ -1,0 +1,25 @@
+
+public class Poly1 
+{
+	/*void fun1(int x)
+	{
+		System.out.println("from int");
+	}*/
+	void fun1(long x)
+	{
+		System.out.println("from long");
+	}
+	/*void fun1(double x)
+	{
+		System.out.println("from double");
+	}*/
+	void fun1(float x)
+	{
+		System.out.println("from float");
+	}
+	public static void main(String[] args) 
+	{
+		Poly1 p1 = new Poly1();
+		p1.fun1(6.0);
+	}
+}

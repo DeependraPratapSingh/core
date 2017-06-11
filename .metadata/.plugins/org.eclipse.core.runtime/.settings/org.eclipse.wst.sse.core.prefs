@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+modelmanager.maxWaitDuringConcurrentLoad=30000
+task-tag-projects-already-scanned=thread,CollectionDemo,IO,genericsDummys,001-ObjectDemo,002-StaticDemo,003-PolymorphismDemo,004-ConstructorDemo,005-ThisDemo,006-StringDemo,007-ArrayDemo,008,009-InheritanceDemo,010-InterfaceDemo,011-GenericsDemo,012-AbstractClassDemo,013-AccessSpecifiersDemo,014-ExceptionDemo,015-MultitaskingDemo,016-IOStreamsDemo,017-CollectionDemo,018-NetworkingDemo,019-GetterNSetter,020-DesignPatterns,000-Test

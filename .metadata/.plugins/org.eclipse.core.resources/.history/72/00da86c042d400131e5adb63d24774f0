@@ -1,0 +1,26 @@
+public class Xyz extends Abc
+{
+	public void m1(int i)
+	{
+		System.out.println("m1 from class Xyz");
+	}
+	
+	public void m2(float t, int s)
+	{
+		System.out.println("m2 from class Xyz");
+	}
+
+	
+	public static void main(String a[])
+	{
+		Abc a1=new Abc();
+		a1.m1();
+		
+		Xyz x1=new Xyz();
+		x1.m1(10);
+		x1.m1();
+		
+		x1.m2(4,);
+		
+	}
+}

@@ -1,0 +1,29 @@
+
+public class TaskDemo1 
+{
+	public void fun1()
+	{
+		System.out.println("Starting of fun1()");
+		System.out.println("Ending of fun1()");
+	}
+	public void fun2() 
+	{
+		System.out.println("Starting of fun2()");
+		System.out.println("Ending of fun2()");
+	}
+	public void fun3() 
+	{
+		System.out.println("Starting of fun3()");
+		System.out.println("Ending of fun3()");
+	}
+	
+	public static void main(String[] args) 
+	{
+		System.out.println("Starting of main() method");
+		TaskDemo1 t1 = new TaskDemo1();
+		t1.fun1();
+		t1.fun2();
+		t1.fun3();		
+	}
+
+}

@@ -1,0 +1,26 @@
+package pack1;
+
+public class Xyz 
+{
+	int a,b;
+	public Xyz(int x)
+	{
+		System.out.println("from constructor Xyz()");
+	}
+	
+	void Abc()
+	{
+		System.out.println("from method Abc");
+	}
+	
+	public static void main(String[] args) 
+	{
+		Xyz x1 = new Xyz(3);
+		x1.Abc();
+		x1.a=10;
+		System.out.println("value of a :: "+a);
+		x1.b=20;
+		System.out.println("value of b :: "+b);
+	}
+	
+}

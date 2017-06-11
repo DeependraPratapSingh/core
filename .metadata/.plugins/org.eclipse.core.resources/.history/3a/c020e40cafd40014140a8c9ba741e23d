@@ -1,0 +1,11 @@
+package pack1;
+
+public class Xyz 
+{
+	
+	public static void main(String[] args) 
+	{
+		Xyz x1 = new Xyz();
+	}
+
+}

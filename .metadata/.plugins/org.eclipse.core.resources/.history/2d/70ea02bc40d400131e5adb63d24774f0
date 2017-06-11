@@ -1,0 +1,14 @@
+public class Xyz extends Abc
+{
+	
+/*	public void m1() 
+	{
+		super.m1();
+	}
+*/
+	
+	public void m1(int i)
+	{
+		System.out.println("m1 from class Xyz");
+	}
+}

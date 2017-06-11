@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+D:\Java Applications\eclipse\core\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1203074609.index
+\atnt\src
+D:\Java Applications\eclipse\core\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\936876815.index
+\xyz\WebContent\WEN-INF\src
+D:\Java Applications\eclipse\core\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\134735013.index
+\aaaa\WebContent\WEB-INF\src

@@ -1,0 +1,26 @@
+package pack2;
+
+/**
+ * @author DnzDP
+ *
+ */
+public class demoBean {
+	private int id,Age;
+	private String Fname,Lname;
+	
+	public void setId(int id){
+		this.id=id;
+	}
+	public int getId(){
+		return id;
+	}
+	
+	public void setFname(String Fname){
+		this.Fname=Fname;
+	}
+	public String getFname(){
+		return Fname;
+	}
+	
+	public
+}
