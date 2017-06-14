@@ -1,5 +1,0 @@
-
-public interface B 
-{
-	int m1();
-}

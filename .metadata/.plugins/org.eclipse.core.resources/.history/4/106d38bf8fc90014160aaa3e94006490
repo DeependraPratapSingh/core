@@ -1,9 +1,0 @@
-package Pack5;
-
-public class E 
-{
-	void E(int x)
-	{
-		System.out.println("from E() of class E");
-	}
-}

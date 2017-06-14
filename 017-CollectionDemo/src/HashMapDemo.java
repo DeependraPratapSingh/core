@@ -29,6 +29,5 @@ public class HashMapDemo
 		Set s1=m.entrySet();
 		System.out.println(s1);
 		System.out.println("s1 value :: "+s1);
-		System.out.println("s1 value :: "+s1);
 	}
 }

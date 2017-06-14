@@ -1,8 +1,0 @@
-
-public class Abc implements A,B
-{
-	public void m1()
-	{
-		System.out.println("*************");
-	}
-}
