@@ -2,3 +2,5 @@
 *.class
 /**/bin/*.class
 /.metadata/*
+/.recommenders
+*.bak
