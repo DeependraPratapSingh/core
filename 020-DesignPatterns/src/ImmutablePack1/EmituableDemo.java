@@ -26,10 +26,16 @@ public final class EmituableDemo
 	
 	//No  setter method, Setter methods are meant to change the state of object and this is what we eant to prevet here.
 	
+	//Getter methods are allowed	
 	public String getField1(){
 		return field1;
 	}
 	public Integer getField2(){
 		return field2;
+	}
+	
+	@Override
+	public String toString() {
+			return field1+".."+field2;
 	}
 }

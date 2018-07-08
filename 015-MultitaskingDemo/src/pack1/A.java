@@ -2,7 +2,7 @@ package pack1;
 
 public class A 
 {
-//	public void funA(String s1)
+	//	public void funA(String s1)
 	synchronized public void funA(String s1)
 	{
 		System.out.print("[Hello["+s1);
