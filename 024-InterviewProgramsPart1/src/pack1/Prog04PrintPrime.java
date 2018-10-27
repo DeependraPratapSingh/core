@@ -1,7 +1,7 @@
 // WAP to print prime numbers from 1 to 100.
 package pack1;
 
-public class Prog02PrintPrime {
+public class Prog04PrintPrime {
 	
 	public static void main(String[] args) {
 		int totals = 0;

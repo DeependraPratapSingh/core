@@ -1,7 +1,7 @@
 // WAP to find factorial of the given numbers
 package pack1;
 
-public class Prog06Factorial {
+public class Prog10Factorial {
 	public static void main(String[] args) {
 		int x =5;
 		int fact = 1;

@@ -1,7 +1,7 @@
 //  Find duplicate elements in an array
 //  Find duplicate elements in an integer array
 
-package pack1;
+package pack2;
 
 import java.util.HashSet;
 import java.util.Iterator;

@@ -1,7 +1,7 @@
 // WAP to check palindrome Number in Java
 package pack1;
 
-public class Prog12PalindromeNumber {
+public class Prog16PalindromeNumber {
 	public static void main(String[] args) {
 		int no = 122;
 		int b = no;

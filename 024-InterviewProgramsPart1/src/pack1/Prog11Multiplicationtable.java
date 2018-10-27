@@ -1,6 +1,7 @@
+// WAP to print multiplicstion table.
 package pack1;
 
-public class Prog07Multiplicationtable {
+public class Prog11Multiplicationtable {
 
 	public static void main(String[] args) {
 		int x=5;

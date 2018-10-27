@@ -1,3 +1,4 @@
+// WAP to print duplicate character with number of occurences.
 package Pack1;
 
 import java.util.HashMap;

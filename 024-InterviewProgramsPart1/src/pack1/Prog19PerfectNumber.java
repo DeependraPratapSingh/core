@@ -1,7 +1,7 @@
 // WAP to find that number is perfect or not
 package pack1;
 
-public class Prog14PerfectNumber {
+public class Prog19PerfectNumber {
 	public boolean IsPerfectNumber(int number) {
 		int temp = 0;
 		for (int i = 1; i <= number / 2; i++) {
@@ -19,7 +19,7 @@ public class Prog14PerfectNumber {
 	}
 
 	public static void main(String[] args) {
-		Prog14PerfectNumber p1 = new Prog14PerfectNumber();
+		Prog19PerfectNumber p1 = new Prog19PerfectNumber();
 		p1.IsPerfectNumber(28);
 	}
 }

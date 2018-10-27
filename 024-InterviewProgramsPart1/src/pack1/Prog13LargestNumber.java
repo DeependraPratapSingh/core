@@ -1,7 +1,7 @@
 // WAP to find largest number among three numbers
 package pack1;
 
-public class Prog09LargestNumber {
+public class Prog13LargestNumber {
 	public static void main(String[] args) {
 		int a=7,b=6,c=6;
 		

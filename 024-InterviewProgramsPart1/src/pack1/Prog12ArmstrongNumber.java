@@ -1,7 +1,7 @@
 // WAP to find the Armstrong number in java
 package pack1;
 
-public class Prog08ArmstrongNumber {
+public class Prog12ArmstrongNumber {
 	public static void main(String[] args) {
 		int no = 371;
 		int temp = no;

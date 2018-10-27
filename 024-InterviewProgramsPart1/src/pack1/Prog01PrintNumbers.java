@@ -1,6 +1,7 @@
+// WAP to print numbers from 1 to 10, without using loop.
 package pack1;
 
-public class Prog99PrintNumbers {
+public class Prog01PrintNumbers {
 //	Approach 1
 	/*static int n =0;
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // WAP to find the number of digits in the given number.
 package pack1;
 
-public class Prog13NumberOfDigits {
+public class Prog17NumberOfDigits {
 
 	public static void main(String[] args) {
 		int no = -32;

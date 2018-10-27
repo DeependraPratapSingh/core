@@ -1,6 +1,6 @@
 //  Java program to print count of each word in a string and find repeating words
 
-package pack1;
+package pack2;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

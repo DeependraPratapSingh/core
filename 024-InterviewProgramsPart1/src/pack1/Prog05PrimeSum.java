@@ -1,7 +1,7 @@
 // WAP to find the sum of first 1000 prime numbers
 package pack1;
 
-public class Prog03PrimeSum {
+public class Prog05PrimeSum {
 
 	public static void main(String[] args) {
 		int number = 2;

@@ -3,7 +3,7 @@ package pack1;
 
 import java.util.Scanner;
 
-public class Prog01CheckPrime {
+public class Prog03CheckPrime {
 	public static void main(String[] args) {
 		int i;
 

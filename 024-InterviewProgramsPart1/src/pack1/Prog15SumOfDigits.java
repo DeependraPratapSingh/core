@@ -1,7 +1,7 @@
 // WAP to find sum of digits
 package pack1;
 
-public class Prog11SumOfDigits {
+public class Prog15SumOfDigits {
 
 	public static void main(String[] args) {
 		int no = 1375;

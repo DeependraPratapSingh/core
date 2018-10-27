@@ -1,7 +1,7 @@
 // WAP to swap two numbers by using third variable
 package pack1;
 
-public class Prog04SwapNumbers {
+public class Prog08SwapNumbers {
 
 	public static void main(String[] args) {
 		int a=5,b=9,c;

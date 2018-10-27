@@ -1,4 +1,4 @@
-package pack1;
+package pack2;
 
 public class Prog98WordsInString {
 	public void countWorld(String str) {
