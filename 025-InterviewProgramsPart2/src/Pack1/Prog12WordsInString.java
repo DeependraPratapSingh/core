@@ -1,6 +1,6 @@
-package pack2;
+package Pack1;
 
-public class Prog98WordsInString {
+public class Prog12WordsInString {
 	public void countWorld(String str) {
 		String[] words = str.split(",");
 		int count = 1;
@@ -18,7 +18,7 @@ public class Prog98WordsInString {
 	}
 
 	public static void main(String[] args) {
-		Prog98WordsInString p1 = new Prog98WordsInString();
+		Prog12WordsInString p1 = new Prog12WordsInString();
 		String s1 = "Welcome,to,to,java,world,world";
 		p1.countWorld(s1);
 	}

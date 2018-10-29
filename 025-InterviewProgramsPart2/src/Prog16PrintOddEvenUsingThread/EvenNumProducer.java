@@ -1,4 +1,4 @@
-package Prog15PrintOddEvenUsingThread;
+package Prog16PrintOddEvenUsingThread;
 
 public class EvenNumProducer implements Runnable {
 	SharedPrinter sp;

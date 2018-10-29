@@ -1,5 +1,5 @@
 // WAP to create deadlock between two threads.
-package Prog13DeadLock;
+package Prog14DeadLock;
 
 public class MyThread extends Thread
 {

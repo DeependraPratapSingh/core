@@ -1,13 +1,13 @@
 //  Find duplicate elements in an array
 //  Find duplicate elements in an integer array
 
-package pack2;
+package Pack1;
 
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-public class Prog99DuplicateInArray1 {
+public class Prog10_2DuplicateInArray1 {
 	public static void main(String[] args) {
 		int[] array = {1,1,2,3,4,5,5,6,6,6,7,8,8};
 

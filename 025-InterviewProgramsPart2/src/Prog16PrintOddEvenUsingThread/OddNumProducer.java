@@ -1,4 +1,4 @@
-package Prog15PrintOddEvenUsingThread;
+package Prog16PrintOddEvenUsingThread;
 
 public class OddNumProducer implements Runnable {
 	SharedPrinter sp;

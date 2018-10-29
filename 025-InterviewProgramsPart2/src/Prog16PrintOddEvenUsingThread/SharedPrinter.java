@@ -1,4 +1,4 @@
-package Prog15PrintOddEvenUsingThread;
+package Prog16PrintOddEvenUsingThread;
 
 public class SharedPrinter {
 	boolean flag = false;

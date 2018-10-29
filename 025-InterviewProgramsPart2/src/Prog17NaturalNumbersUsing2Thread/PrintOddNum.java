@@ -1,4 +1,4 @@
-package Prog16NaturalNumbersUsing2Thread;
+package Prog17NaturalNumbersUsing2Thread;
 
 public class PrintOddNum implements Runnable {
 	Object obj;

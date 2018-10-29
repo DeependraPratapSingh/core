@@ -1,5 +1,5 @@
 // WAP to print Odd and Even Numbers using two threads.
-package Prog15PrintOddEvenUsingThread;
+package Prog16PrintOddEvenUsingThread;
 
 public class Test {
 	public static void main(String[] args) {

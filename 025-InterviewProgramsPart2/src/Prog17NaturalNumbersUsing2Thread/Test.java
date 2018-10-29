@@ -1,6 +1,6 @@
 // WAP to print natural numbers from 1 to 100 using two Threads.
 // where one thread prints only odd numbers and other thread prints only even numbers.
-package Prog16NaturalNumbersUsing2Thread;
+package Prog17NaturalNumbersUsing2Thread;
 
 public class Test {
 	public static Object obj =  new Object();

@@ -1,4 +1,4 @@
-package Prog14PrintNumAndCharUsingThread;
+package Prog15PrintNumAndCharUsingThread;
 
 public class MyThread2 extends Thread
 {

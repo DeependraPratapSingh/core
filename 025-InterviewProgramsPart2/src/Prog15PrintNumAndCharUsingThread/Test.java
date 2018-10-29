@@ -1,5 +1,5 @@
 // WAP to print first 10 numbers and first 10 characters using two threads.
-package Prog14PrintNumAndCharUsingThread;
+package Prog15PrintNumAndCharUsingThread;
 
 public class Test {
 	public static void main(String[] args) {

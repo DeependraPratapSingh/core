@@ -1,4 +1,4 @@
-package Prog13DeadLock;
+package Prog14DeadLock;
 
 public class A {
 	public synchronized void d1(B b) {

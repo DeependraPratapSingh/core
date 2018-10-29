@@ -1,10 +1,10 @@
-package pack2;
+package Pack1;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Prog99PrintDuplicateChar {
+public class Prog10_1PrintDuplicateChar {
 	public void DuplicateChar(String str) {
 		LinkedHashMap<Character, Integer> hm = new LinkedHashMap<Character, Integer>();
 		char[] charArray = str.toLowerCase().toCharArray();
@@ -22,7 +22,7 @@ public class Prog99PrintDuplicateChar {
 		}
 	}
 	public static void main(String[] args) {
-		Prog99PrintDuplicateChar pdc = new Prog99PrintDuplicateChar();
+		Prog10_1PrintDuplicateChar pdc = new Prog10_1PrintDuplicateChar();
 		String str = "Deependra";
 		pdc.DuplicateChar(str);
 	}

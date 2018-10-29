@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Prog10DuplicateChar {
+public class Prog10_0DuplicateChar {
 	public static void printDuplicateChar(String str) {
 		HashMap<Character, Integer> hm = new HashMap<Character, Integer>();
 		char[] arr = str.toCharArray();

@@ -1,13 +1,13 @@
 //  Find duplicate elements in an array
 //  Find duplicate elements in an integer array
 
-package pack2;
+package Pack1;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Prog99DuplicateInArray2 {
+public class Prog10_3DuplicateInArray2 {
 	public static void DuplicateNum(int[] array) {
 		LinkedHashMap<Integer, Integer> hm = new LinkedHashMap<Integer, Integer>();
 		for (Integer num : array) {
@@ -25,6 +25,6 @@ public class Prog99DuplicateInArray2 {
 	}
 	public static void main(String[] args) {
 		int[] array = {1,1,2,3,4,5,6,7,8,8,8,8,4,4,4};
-		Prog99DuplicateInArray2.DuplicateNum(array);
+		Prog10_3DuplicateInArray2.DuplicateNum(array);
 	}
 }
